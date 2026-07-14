@@ -95,6 +95,5 @@ clean test "-Dbrowser=$BROWSER" "-DbaseUrl=$BASE_URL" "-Dremote=https://user1:12
 ### <img width="4%" style="vertical-align:middle" title="Selenoid" src="media/logo/Selenoid.svg"> Видео примера запуска тестов в Selenoid
 
 В отчетах Allure для каждого теста прикреплен не только скриншот, но и видео прохождения теста
-<p align="center">
-  <img title="Selenoid Video" src="media/screens/Video.gif">
-</p>
+
+  ![Selenoid Video](media/screens/Video.gif)
