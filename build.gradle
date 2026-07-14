@@ -32,7 +32,6 @@ dependencies {
     testImplementation 'com.codeborne:selenide:7.15.0'
     testImplementation 'io.qameta.allure:allure-selenide:2.33.0'
     testImplementation 'org.slf4j:slf4j-simple:2.0.17'
-    implementation 'com.github.javafaker:javafaker:1.0.2'
 
 }
 
