@@ -1,4 +1,10 @@
+https://rybalkashop.ru/img/logo.png
+
 # Проект по автоматизации тестовых сценариев для сайта rybalkashop.ru
+<p align="center">
+  <img src="media/logo/rybalkashop.png" width="450" alt="Benderfrai">
+</p>
+
 ## :scroll: Содержание:
 
 - [Используемый стек](#computer-используемый-стек)
