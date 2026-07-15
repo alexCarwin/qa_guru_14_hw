@@ -1,4 +1,4 @@
-https://rybalkashop.ru/img/logo.png
+
 
 # Проект по автоматизации тестовых сценариев для сайта rybalkashop.ru
 <p align="center">
